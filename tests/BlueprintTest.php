@@ -1,8 +1,8 @@
 <?php
 
-namespace Dingo\Blueprint\Tests;
+namespace Fc9\Blueprint\Tests;
 
-use Dingo\Blueprint\Blueprint;
+use Fc9\Blueprint\Blueprint;
 use PHPUnit\Framework\TestCase;
 use Illuminate\Support\Collection;
 use Illuminate\Filesystem\Filesystem;

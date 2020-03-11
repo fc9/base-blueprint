@@ -1,6 +1,6 @@
 <?php
 
-namespace Dingo\Blueprint\Tests\Stubs;
+namespace Fc9\Blueprint\Tests\Stubs;
 
 /**
  * Users Resource.

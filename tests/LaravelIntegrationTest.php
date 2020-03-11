@@ -1,6 +1,6 @@
 <?php
 
-namespace Dingo\Blueprint {
+namespace Fc9\Blueprint {
 
     use Illuminate\Support\Collection;
     use Illuminate\Filesystem\Filesystem;

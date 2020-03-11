@@ -1,6 +1,6 @@
 <?php
 
-namespace Dingo\Blueprint\Annotation;
+namespace Fc9\Blueprint\Annotation;
 
 /**
  * @Annotation
@@ -28,7 +28,7 @@ class Request
     public $headers = [];
 
     /**
-     * @var array<Dingo\Blueprint\Annotation\Attribute>
+     * @var array<Fc9\Blueprint\Annotation\Attribute>
      */
     public $attributes;
 }

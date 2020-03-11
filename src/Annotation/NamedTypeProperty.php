@@ -1,6 +1,6 @@
 <?php
 
-namespace Dingo\Blueprint\Annotation;
+namespace Fc9\Blueprint\Annotation;
 
 /**
  * @Annotation

@@ -1,6 +1,6 @@
 <?php
 
-namespace Dingo\Blueprint\Annotation\Method;
+namespace Fc9\Blueprint\Annotation\Method;
 
 abstract class Method
 {
